@@ -7,8 +7,8 @@ Application React Native réalisée lors de la 8ème semaine de formation du 1er
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842531/Faceup3_fqt1yw.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842531/Faceup4_cmrcnw.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842532/Faceup5_inj1td.png)
-![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842532/Faceup6_sdvzgo.png)
-![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842531/Faceup7_vztgkr.png)
+![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613861298/Faceup6_exwzle.jpg)
+![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613861298/Faceup7_ai3qww.jpg)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842532/Faceup8_dwe8qz.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613842532/Faceup9_gvspmb.png)
 
